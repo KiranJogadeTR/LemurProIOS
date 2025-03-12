@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete edits of gas valve-53</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c16bde58-0877-457f-aed5-f427f80be3b8</testCaseGuid>
+</TestCaseEntity>
